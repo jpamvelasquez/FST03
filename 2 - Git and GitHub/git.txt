@@ -27,3 +27,8 @@ git add .
 - Create a commit 
 git commit -m "This is a description"
 
+- Show History
+git log
+
+- Shorter History
+git log --oneline
