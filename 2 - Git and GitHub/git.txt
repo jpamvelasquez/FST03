@@ -18,7 +18,7 @@ git init
 
 - Git Three Stage
 
-- Check the status
+- Check the statusgit
 git status
 
 - Add file to the staging are
@@ -47,3 +47,6 @@ git switch [branch_name]
 
 - Merging branch to the main branch
 git merge [branch_name]
+
+- Delete a branch
+git branch -d [branch_name]
